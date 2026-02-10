@@ -9,8 +9,10 @@
 - Currently improving my skills in React, Node.js, and full-stack architectures
 
 ### Connect with me:
-- LinkedIn: https://www.linkedin.com/in/luis-castro-dev  
-- Portfolio: https://luiscastro-webdeveloper.netlify.app
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?logo=linkedin)]([https://www.linkedin.com/in/luis-castro-dev])
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=google-chrome)](https://luiscastro-webdeveloper.netlify.app)
+
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript)
