@@ -1,7 +1,6 @@
 # Hi, I'm Luís 👋
 
 ### Junior Full Stack Web Developer with a background in music and creative technology.
-
 - Recently graduated from Ironhack’s Web Development Bootcamp
 - I build full-stack web applications using the MERN stack
 - Strong focus on clean code, logical problem-solving, and user experience
@@ -9,10 +8,9 @@
 - Currently improving my skills in React, Node.js, and full-stack architectures
 
 ### Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?logo=linkedin)]([https://www.linkedin.com/in/luis-castro-dev])
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=google-chrome)](https://luiscastro-webdeveloper.netlify.app)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?logo=linkedin)](https://www.linkedin.com/in/luiscastrocoding)
+[![Codewars](https://img.shields.io/badge/Codewars-000000?logo=codewars)](https://www.codewars.com/users/wai-coding)
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript)
