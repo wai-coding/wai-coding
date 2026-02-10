@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Luís 👋
 
-<!--
-**wai-coding/wai-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Full Stack Web Developer with a background in music and creative technology.
 
-Here are some ideas to get you started:
+- Recently graduated from Ironhack’s Web Development Bootcamp
+- I build full-stack web applications using the MERN stack
+- Strong focus on clean code, logical problem-solving, and user experience
+- Background in music production and DJing, bringing a creative mindset to development
+- Currently improving my skills in React, Node.js, and full-stack architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+- LinkedIn: https://www.linkedin.com/in/luis-castro-dev  
+- Portfolio: https://luiscastro-webdeveloper.netlify.app
+
+### Languages and Tools:
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript)
+![React](https://img.shields.io/badge/React-000000?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-000000?logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?logo=mongodb)
+![HTML5](https://img.shields.io/badge/HTML5-000000?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?logo=css3)
+![Git](https://img.shields.io/badge/Git-000000?logo=git)
